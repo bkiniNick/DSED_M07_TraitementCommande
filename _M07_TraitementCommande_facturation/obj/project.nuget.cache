@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ucN884Yg+Nk=",
+  "success": true,
+  "projectFilePath": "D:\\Nick Exercice\\Exercice_FORMATION_Continue\\DSED_M07_TraitementCommande\\_M07_TraitementCommande_facturation\\_M07_TraitementCommande_facturation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmuke\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\gmuke\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\gmuke\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\gmuke\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\gmuke\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512",
+    "C:\\Users\\gmuke\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
